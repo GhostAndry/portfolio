@@ -19,5 +19,5 @@
 Attualmente iscritto presso [ITI G.Marconi Dalmine](https://itisdalmine.edu.it/) - Classe [4Ci]
 
 ## Contatti
-- **Email:** <mailto:andrearonzoni2006@hotmail.com>
+- **Email:** <mailto://andrearonzoni2006@hotmail.com>
 - **GitHub:** [GhostAndry](https://github.com/GhostAndry)
